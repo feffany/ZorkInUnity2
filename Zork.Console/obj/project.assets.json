@@ -2764,11 +2764,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\batsu\\OneDrive\\Documents\\GitHub\\ZorkInUnity\\ZorkBuilder\\Zork.Console\\Zork.Console.csproj",
+      "projectUniqueName": "C:\\Users\\batsu\\OneDrive\\Documents\\GitHub\\ZorkInUnity2\\Zork.Console\\Zork.Console.csproj",
       "projectName": "Zork.Console",
-      "projectPath": "C:\\Users\\batsu\\OneDrive\\Documents\\GitHub\\ZorkInUnity\\ZorkBuilder\\Zork.Console\\Zork.Console.csproj",
+      "projectPath": "C:\\Users\\batsu\\OneDrive\\Documents\\GitHub\\ZorkInUnity2\\Zork.Console\\Zork.Console.csproj",
       "packagesPath": "C:\\Users\\batsu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\batsu\\OneDrive\\Documents\\GitHub\\ZorkInUnity\\ZorkBuilder\\Zork.Console\\obj\\",
+      "outputPath": "C:\\Users\\batsu\\OneDrive\\Documents\\GitHub\\ZorkInUnity2\\Zork.Console\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\batsu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2784,8 +2784,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\batsu\\OneDrive\\Documents\\GitHub\\ZorkInUnity\\ZorkBuilder\\Zork.Common\\Zork.Common.csproj": {
-              "projectPath": "C:\\Users\\batsu\\OneDrive\\Documents\\GitHub\\ZorkInUnity\\ZorkBuilder\\Zork.Common\\Zork.Common.csproj"
+            "C:\\Users\\batsu\\OneDrive\\Documents\\GitHub\\ZorkInUnity2\\Zork.Common\\Zork.Common.csproj": {
+              "projectPath": "C:\\Users\\batsu\\OneDrive\\Documents\\GitHub\\ZorkInUnity2\\Zork.Common\\Zork.Common.csproj"
             }
           }
         }

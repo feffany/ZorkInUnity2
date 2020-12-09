@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\batsu\\OneDrive\\Documents\\GitHub\\ZorkInUnity\\ZorkBuilder\\Zork.Common\\Zork.Common.csproj": {}
+    "C:\\Users\\batsu\\OneDrive\\Documents\\GitHub\\ZorkInUnity2\\Zork.Common\\Zork.Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\batsu\\OneDrive\\Documents\\GitHub\\ZorkInUnity\\ZorkBuilder\\Zork.Common\\Zork.Common.csproj": {
+    "C:\\Users\\batsu\\OneDrive\\Documents\\GitHub\\ZorkInUnity2\\Zork.Common\\Zork.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\batsu\\OneDrive\\Documents\\GitHub\\ZorkInUnity\\ZorkBuilder\\Zork.Common\\Zork.Common.csproj",
+        "projectUniqueName": "C:\\Users\\batsu\\OneDrive\\Documents\\GitHub\\ZorkInUnity2\\Zork.Common\\Zork.Common.csproj",
         "projectName": "Zork.Common",
-        "projectPath": "C:\\Users\\batsu\\OneDrive\\Documents\\GitHub\\ZorkInUnity\\ZorkBuilder\\Zork.Common\\Zork.Common.csproj",
+        "projectPath": "C:\\Users\\batsu\\OneDrive\\Documents\\GitHub\\ZorkInUnity2\\Zork.Common\\Zork.Common.csproj",
         "packagesPath": "C:\\Users\\batsu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\batsu\\OneDrive\\Documents\\GitHub\\ZorkInUnity\\ZorkBuilder\\Zork.Common\\obj\\",
+        "outputPath": "C:\\Users\\batsu\\OneDrive\\Documents\\GitHub\\ZorkInUnity2\\Zork.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\batsu\\AppData\\Roaming\\NuGet\\NuGet.Config",
